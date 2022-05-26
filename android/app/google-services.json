@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "32871635074",
+    "project_id": "funfood-the-food-app",
+    "storage_bucket": "funfood-the-food-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32871635074:android:1ca6c40ebfb4f6ce407c9b",
+        "android_client_info": {
+          "package_name": "com.example.fourth_day"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32871635074-sdbvrh4rfh2glubhljfnk10aboh9f2uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbDcXGEEzlxPUZK4WLxse2_DG3ZsXvAeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32871635074-sdbvrh4rfh2glubhljfnk10aboh9f2uh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
